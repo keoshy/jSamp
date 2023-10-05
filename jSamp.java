@@ -1,7 +1,5 @@
 package jSamp;
-
 import javax.swing.JOptionPane;
-
 public class jSamp {
 	
 	 private Object[] options = {"Confirm dialog", "Option dialog"};
