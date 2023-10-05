@@ -20,7 +20,6 @@ public class jSamp {
 	    private void showConfirm() {
 	        int n = JOptionPane.showConfirmDialog(null, "Procede with insert?", "Advice",
 	                JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.WARNING_MESSAGE);
-
 	        showAnswer(n);
 	    }
 	    private void showOption() {
